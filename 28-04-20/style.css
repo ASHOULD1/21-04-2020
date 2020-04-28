@@ -1,0 +1,17 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.purple {
+    border: 1px solid purple;
+    width: 50%;
+    text-align: center;
+}
+
+#bgpurple {
+    background-color: purple;
+}
+
+div {
+    border: 1px solid;
+}
