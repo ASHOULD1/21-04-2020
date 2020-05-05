@@ -1,0 +1,43 @@
+.contentleft {
+    margin-right: 10%;
+}
+
+p, h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lightblue {
+    border: 1px solid lightskyblue;
+    width: 50%;
+    text-align: center;
+}
+
+#bglightblue {
+    background-color: lightskyblue;
+}
+
+.rightnav {
+    background-color: lightgrey;
+    overflow: auto;
+    width: 10%;
+    position: fixed;
+    margin-left: 90%;
+}
+
+.rightnav a {
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    display: block;
+    padding: 10px 10px;
+    border: 1px solid;
+}
+
+.rightnav a:hover {
+    background-color: grey;
+}
+
+.rightnav a.active {
+    background-color: lightskyblue;
+}
